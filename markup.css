@@ -29,16 +29,6 @@ L + ratio { }
 	
 	--T-embed-height: 10vh;
 	
-	/* for colored table cells, etc. */
-	/* these are transparent, so they should work with both dark and light */
-	888;
-	#0F08;
-	 #FF08;
-	 #FA08;
-	08F8;
-	 #C0F8;
-	AAA8;
-	
 	--T-box-bg: #AAA2;
 	
 	/* other values used :
