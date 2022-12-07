@@ -5,6 +5,7 @@
 	"keywords": ["markup", "12y2", "12y", "bbcode"],
 	"license": "only my friends are allowed to use this",
 	"repository": "github:12Me21/markup2",
+	"files": ["parse.js", "legacy.js", "langs.js", "render.js", "runtime.js", "markup.css"],
 	
 	"eslintConfig": {
 		"root": true,
